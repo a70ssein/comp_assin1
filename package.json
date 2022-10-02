@@ -20,5 +20,20 @@
     "jquery": "^3.6.1",
     "morgan": "~1.9.1",
     "popper": "^1.0.1"
-  }
+  },
+  "main": "app.js",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a70ssein/comp_assin1.git"
+  },
+  "author": "Hussein_Abed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a70ssein/comp_assin1/issues"
+  },
+  "homepage": "https://github.com/a70ssein/comp_assin1#readme",
+  "description": ""
 }
